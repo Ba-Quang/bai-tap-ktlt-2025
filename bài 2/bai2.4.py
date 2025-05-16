@@ -1,3 +1,5 @@
+print("sinh vien: Nguyễn Bá Quảng")
+print("Mssv: 23575202071004545")
 i = 1
 for j in range(2, 10):
     print("i:", i, "j:", j)
