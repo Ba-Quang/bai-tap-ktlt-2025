@@ -1,3 +1,5 @@
+print("sinh vien: Nguyễn Bá Quảng")
+print("Mssv: 235752020710045")
 str=input ("Enter a String:")
 dict={}
 for n in str:
